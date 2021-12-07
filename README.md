@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suyashraut
 - 👀 I’m interested in Salesforce Development 
-- 🌱 I’m currently Cloud Coumpting
+- 🌱 I’m currently learning Cloud Coumpting
 
 <!---
 suyashraut/suyashraut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
